@@ -3,6 +3,7 @@ colorama==0.4.3
 fastapi==0.61.1
 gunicorn==20.0.4
 h11==0.11.0
+httptools
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
